@@ -1,2 +1,4 @@
 # hullowurld
-first repository on GitHun
+first repository on GitHub
+
+data + curiosity +passion
